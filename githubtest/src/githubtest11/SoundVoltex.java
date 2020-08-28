@@ -9,6 +9,9 @@ public class SoundVoltex {
 		Sdvx A = new Sdvx(); 
 		A.test1();
 		
-	}
+		for(int i = 10; i > 0; i--) {
+			System.out.println(i);
+		}
+	 }
 
 }
