@@ -6,4 +6,8 @@ public class Sdvx {
 	public void test1() {
 		System.out.println("123131332");
 	}
+	
+	public void test22() {
+		System.out.println(i);
+	}
 }
