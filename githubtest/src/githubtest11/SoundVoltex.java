@@ -10,11 +10,12 @@ public class SoundVoltex {
 		A.test1();
 		
 		for(int i = 0; i < 10; i++) {
-			System.out.println((i % i + 2) + i);
+			System.out.println((i + i + 2) + i);
 			A.test22();
 		}
 		
 		A.test22();
+		
 	}
 
 }
